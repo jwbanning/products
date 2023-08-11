@@ -12,8 +12,8 @@ info:
     url: https://opensource.org/license/mit/
   termsOfService: https://postman.com/terms
 servers:
-  - url: https://tyobce1cv8.execute-api.ap-southeast-2.amazonaws.com/latest
-    description: AWS Test Server
+  - url: https://64492170-5ef8-4bec-8a61-467612184711.mock.pstmn.io
+    description: Johns mock
 paths:  
   /api/products:
     get:
